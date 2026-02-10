@@ -1,0 +1,8 @@
+## Course scope & Learning Outcome:
+Otective:
+By the end Of this crash course. learners will
+• Understand the correct mental model of Agentic AI
+• Clearly differentiate between Generative Al. RAG. AI Assistants. AI Agents. Multi•Agent Systerns, and Oeep Agents
+• Understand the core building blocks Of agentic systems
+• Know which frameworks exist and why they are used
+• Be ready to implernent real-world agentic AI project
